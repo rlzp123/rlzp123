@@ -10,6 +10,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Front-end+e+UI+Design;Sempre+aprendendo+algo+novo+🚀"/>
 
+<br><br>
+
+<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 <br>
