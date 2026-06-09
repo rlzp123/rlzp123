@@ -28,8 +28,6 @@
 
 🚀 Criando interfaces modernas e responsivas
 
-🌙 Inspirado pelo universo retrô do **Dinner by Moonlight**
-
 </div>
 
 <br>
